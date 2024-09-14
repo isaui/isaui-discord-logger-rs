@@ -1,5 +1,7 @@
 [package]
 name = "isaui-discord-logger-rs"
+authors = ["Isa <isadestroyed17@gmail.com>"]
+description = "A Discord logger for Rust applications"
 version = "0.1.0"
 edition = "2021"
 
